@@ -33,6 +33,12 @@ plot(x,y);
 
 
 
+y = functionTemplate(x);
+
+
+figure;
+plot(x,2*y.^2,'-rs');
+
 %% fraser: fa28
 
 
