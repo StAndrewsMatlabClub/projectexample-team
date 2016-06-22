@@ -29,7 +29,9 @@ plot(x,y)
 
 %% Abi: abigailrilee
 
-
+y = abiFunction(x);
+figure(101)
+plot(x,y);
 
 %% Olivier: openacchio
 
@@ -45,6 +47,11 @@ plot(x,y)
 
 %% Benjamin: bportelli
 
+figure('Name','Currrve');
+
+y = bpfunc(x);
+
+comet(x,y);
 
 
 %% [INSERT NAME] Section 
