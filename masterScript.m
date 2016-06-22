@@ -13,6 +13,38 @@ y = functionTemplate(x);
 plot(x,y);
 
 
+%% Bobby: BR-Innes
+
+
+
+%% Alex: amitchell12
+
+
+
+%% Josie: j-urquhart
+
+
+
+%% Abi: abigailrilee
+
+
+
+%% Olivier: openacchio
+
+
+
+%% fraser: fa28
+
+
+
+%% Akira: akiraoc
+
+
+
+%% Benjamin: bportelli
+
+
+
 %% [INSERT NAME] Section 
 
 
