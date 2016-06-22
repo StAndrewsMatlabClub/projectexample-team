@@ -22,7 +22,9 @@ plot(x,y);
 
 
 %% Josie: j-urquhart
-
+figure;
+y = functionJosie(x);
+plot(x,y)
 
 
 %% Abi: abigailrilee
@@ -34,6 +36,12 @@ plot(x,y);
 %% Olivier: openacchio
 
 
+
+y = functionTemplate(x);
+
+
+figure;
+plot(x,2*y.^2,'-rs');
 
 %% fraser: fa28
 
