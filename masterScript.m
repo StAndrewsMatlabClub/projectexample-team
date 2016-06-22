@@ -43,6 +43,11 @@ plot(x,y);
 
 %% Benjamin: bportelli
 
+figure('Name','Currrve');
+
+y = bpfunc(x);
+
+comet(x,y);
 
 
 %% [INSERT NAME] Section 
