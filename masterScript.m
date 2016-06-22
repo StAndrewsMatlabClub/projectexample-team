@@ -27,7 +27,9 @@ plot(x,y);
 
 %% Abi: abigailrilee
 
-
+y = abiFunction(x);
+figure(101)
+plot(x,y);
 
 %% Olivier: openacchio
 
