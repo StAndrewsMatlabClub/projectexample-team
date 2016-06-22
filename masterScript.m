@@ -1,9 +1,13 @@
 %% Initialize variables
 close all
 <<<<<<< HEAD
+<<<<<<< HEAD
 x = linspace(0,1,523); %Simple variable for our x axis
 =======
 x = linspace(0,1,20000000); %Simple variable for our x axis
+>>>>>>> develop
+=======
+x = linspace(0,1,100); %Simple variable for our x axis
 >>>>>>> develop
 
 
