@@ -23,8 +23,7 @@ plot(x,y);
 
 %% Josie: j-urquhart
 figure;
-y = functionJosie(x);
-plot(x,y)
+
 
 
 %% Abi: abigailrilee
