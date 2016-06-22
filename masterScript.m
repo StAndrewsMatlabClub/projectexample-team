@@ -1,6 +1,6 @@
 %% Initialize variables
 close all
-x = linspace(0,1,20000000); %Simple variable for our x axis
+x = linspace(0,1,100); %Simple variable for our x axis
 
 
 
